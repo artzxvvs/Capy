@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dcuraigipxtgd"
-path="res://.godot/imported/cap1.png-d4bc60acae9cdb6db64f8208b9688909.ctex"
+uid="uid://coxb4exypds1d"
+path="res://.godot/imported/capy 4.png-edae54d4e52ffd94e4d8b81cf4800546.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/cap1.png"
-dest_files=["res://.godot/imported/cap1.png-d4bc60acae9cdb6db64f8208b9688909.ctex"]
+source_file="res://assets/sprites/capy 4.png"
+dest_files=["res://.godot/imported/capy 4.png-edae54d4e52ffd94e4d8b81cf4800546.ctex"]
 
 [params]
 

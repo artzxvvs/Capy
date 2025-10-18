@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ctdff7pm1jih2"
-path="res://.godot/imported/cap4.png-8b724369341c7a1c2386b196284dadd9.ctex"
+uid="uid://dcuraigipxtgd"
+path="res://.godot/imported/cap1.png-3fb0a54d1e10cf36a2ff34caaa19ffab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprite/cap4.png"
-dest_files=["res://.godot/imported/cap4.png-8b724369341c7a1c2386b196284dadd9.ctex"]
+source_file="res://assets/sprites/cap1.png"
+dest_files=["res://.godot/imported/cap1.png-3fb0a54d1e10cf36a2ff34caaa19ffab.ctex"]
 
 [params]
 
